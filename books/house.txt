@@ -1,0 +1,1024 @@
+research. In addition
+to the construction material, the process must also contain methods for
+checking rule
+application during the process and in the resulting model. In summary,
+the process
+involves qualitative and quantitative methods for evaluating and testing
+the process and
+resulting model.
+*Fig. *4 Country villa (Pojana) and an urban villa (Foscari)
+------------------------------------------------------------------------
+*Page 8*
+*Reconstructing Palladio’s Villas:*
+/*8 */
+The process used here is done in a series of steps starting with a
+/villa manual /and
+concluding with a three-dimensional representation known as a /villa
+model/. The villa
+manual is a clarification of rules from the /Four Books, /by rewriting
+and illustrating each
+rule in the form of a simple line of text. This manual contains all of
+the programming,
+construction and ornamental rules needed to reconstruct a villa from a
+site plan. The first
+step is to reconstruct the site plan of the villa and the barns, in form
+of a line drawing a
+process similar to Palladio’s sketch representations not found in the
+/Four Books /(fig.5).
+The second step is to apply construction rules to the line
+representation of the plan in
+order to create a digital representation of Palladio’s design
+intensions. The third step is to
+reconstruct a digital representation of the elevation from the previous
+digital plan and the
+elevation drawing in the /Four Books/. Finally, three dimensional
+/construction rules /and
+/ornamental rules /are applied to the plan and elevation drawings
+leading to a /villa model/
+representing of half of the final villa (fig. 10). The villa model is
+used to create plans,
+sections and elevation drawings for measurements in addition to a three
+dimensional print
+and renderings of complex spaces. Throughout the process each rule taken
+from the villa
+manual, or rule invented by the author or others is recorded on a
+spreadsheet. (see:
+Appendix-A)
+*Fig. *5 Reconstructing the Villa Pojana plan in line form from the site
+and barn on the left
+to the reconstruction of the final plan in line form on the right
+------------------------------------------------------------------------
+*Page 9*
+*Reconstructing Palladio’s Villas:*
+/*9 */
+*3.1 *
+*Reconstructing the floor plan *
+This reconstruction system is a set of parametric shapes, systematically
+applied to the
+plan diagram (fig. 5) once the proportions and general shape of the plan
+has been
+constructed (fig. 6). The construction system is used to create a
+finished plan of walls,
+ceilings, porticos and stairs. These shapes are plan views of
+construction items and new
+rules created by the author. New rules must be written to fill the gaps
+for general rules
+written by Palladio. They are scalable, stretchable images representing
+design and
+construction rule sets that are dependant on the completion of the
+previous set of objects
+on the plan for their parametric assignment. For example, villa wall
+thickness is defined
+by the ceiling type assigned to the plan, if a room has a heavier
+ceiling then the walls
+must be thicker. If a lighter ceiling type, such as wood joist are used
+they require a
+thinner wall thickness. But door or window placement does not depend on
+wall thickness;
+it is dependent on room adjacency and views to the outside world. So,
+wall thickness
+cannot be assigned to the plan until the ceiling type is defined on the
+plan diagram. The
+process requires the assignment of nine steps each with a series of
+rules from the villa
+manual that can be applied to the plan. The final representation is a
+quantitative
+representation from Palladio’s plan drawing in the Four Books.
+Plan Reconstruction Steps (fig.6)
+1. Assignment of spaces
+2. Ceilings notation
+3. Wall thickness notation
+4. Portico
+5. Columns and arches
+6. Stairs and stair pedestals
+7. Door notation
+8. Window notation
+9. Detail notations
+------------------------------------------------------------------------
+*Page 10*
+*Reconstructing Palladio’s Villas:*
+/*10 */
+*Fig. *6 Reconstruction of the Villa Cornaro plan drawing from a line
+------------------------------------------------------------------------
+*Page 11*
+*Reconstructing Palladio’s Villas:*
+/*11 */
+*3.2 *
+*Reconstructing the Elevation *
+Palladio's elevations are pictorial representations of the plan,
+projecting and adding
+elements from the *piano noble*. A closer look at the plan and
+elevations demonstrates that
+two drawings don’t match. Lines are off or sometimes drawn differently
+from the plan all
+together. The elevation design sketch is transformed to a digital
+representation in nine
+steps, each focused on representing some aspect of the construction,
+such as wall height
+variation and column location. Most are focused on a pictorial
+representation of the parts
+by locating windows, doors, pediments, moldings and entablatures. Each
+step listed
+below for this system was taken from a survey of villa drawings in book
+two of the
+/Quattro Libri/. Most steps in this section are symbolic notations that
+can be applied to the
+initial wall shape. Most of shapes for the elevation reconstruction are
+fixed
+representations or symbols used to locate the objects on the elevation.
+Finished sizes are
+not of the highest concern here the goal is to create a pictorial
+reference for heights and
+symbolic location.
+Elevations Reconstruction Steps (fig. 7)
+1. Initial Shape
+2. Walls and Floors
+3. Cornices
+4. Portico Steps
+5. Columns
+6. Moldings
+7. Doors and Windows
+8. Roof and Pediment
+9. Details
+------------------------------------------------------------------------
+*Page 12*
+*Reconstructing Palladio’s Villas:*
+/*12 */
+*Fig. *7 Reconstruction of the Villa Cornaro elevation
+------------------------------------------------------------------------
+*Page 13*
+*Reconstructing Palladio’s Villas:*
+/*13 */
+*3.3 *
+*Constructing the Villa Model *
+The /Queen Anne Grammar/
+/5/
+and the /*Frank Lloyd Wright* Grammars/
+/6/
+use parametric
+grammars used to specify shapes in the styles of the architects. The
+difficulty with the use
+of these grammars here is that the origin of the sizes for the shapes is
+unclear. There is
+little documentation defining the sizes of the objects and the reasoning
+behind their
+fitness requirements. To address the issue, this study has created a
+spreadsheet containing
+variables missing from Palladio’s drawings.
+There are twelve steps toward constructing the final villa model. Each
+step requires sizing
+and location information from the reconstructed plan and elevation
+drawings. Just as with
+the Queen Anne grammar, a building part is assigned a set of variables
+also listed on the
+spreadsheet from rule variables defined in the villa manual. The rule
+application
+developed here is not formed from many pre made objects that are
+combined to make a
+final product, but formed from procedures and profiles designed in the
+Palladian style.
+Villa Construction model Steps (fig.8)
+1. Initial plans
+2. Walls
+3. Ceilings
+4. Cornice
+5. Portico
+6. Staircase
+7. Columns
+8. Moldings
+9. Doors
+10. Windows
+11. Details
+12. Roof
+------------------------------------------------------------------------
+*Page 14*
+*Reconstructing Palladio’s Villas:*
+/*14 */
+*Fig. *8 Three steps within villa model reconstruction (Initial plan,
+walls, columns)
+------------------------------------------------------------------------
+*Page 15*
+*Reconstructing Palladio’s Villas:*
+/*15 */
+*4.0 *
+*Villa Manual of Rules*
+The /Four Books of Architecture /breaks rules up by object, proportion
+and spatial
+ordering. Text rule representation in the text and application to a
+reconstruction can be
+confusing, the text was meant to be read by a 16
+th
+century mason or architect. The villa
+manual is broken into 16 sections based on vicenzentine brick, means of
+measuring,
+objects such as columns and mathematical rules such as ceiling height or
+window
+opening sizes. Within each section of the manual is a rewriting of the
+rule from the /Four /
+/Books /or a new rule needed to construct a detail or a space not
+mentioned in Palladio’s
+text. A typical series of rules from the villa manual are written in the
+following format:
+RULES FOR STAIRS (fig. 9)
+8.1.pa - Staircases may not obstruct other places, nor be obstructed by them
+7
+8.2.1.pa - They should be hidden from those that enter the house
+8
+8.2.2.pa - They should be in a place so that the most beautiful part of
+the house is seen first
+9
+8.3.1.pa - Three openings are required in staircases
+10
+The number on the right of the rules indicates the rules section, and
+rule division within
+that section. The “pa” refers to a rule written by Palladio. A rule
+labeled “ls” or “sm”
+means that the rule was author by someone else. Within the text rule
+representation and
+application can be confusing and hard to apply. In this study the manual
+of rules is based
+on three rule types: /plan programming rules/, /construction rules /and
+/ornamental rule/.
+*Fig. *9 Rules for a stair construction. D = riser height & brick
+thickness, tr = tread
+depth
+------------------------------------------------------------------------
+*Page 16*
+*Reconstructing Palladio’s Villas:*
+/*16 */
+*4.1 *
+*Input - Plan Programming Rules *
+/Plan programming /rules are spatial, two-dimensional rules used to
+construct or
+reconstruct any plan (with some degree of accuracy) by rule and
+proportion in line form.
+These rules organize the plan from the site, to wall and stair layout.
+Two examples of
+/plan programming /rules are those used to organize the loggias and
+internal spaces by
+Palladian rule. First, Palladio says that “the loggias, halls, courts
+and magnificent rooms
+as principal spaces.”
+11
+Second, that these principle spaces should be seen first (halls) and
+the secondary spaces should be hidden from view (stairs, kitchens,
+servant areas).
+12
+Based on these rules a villa will never have a grand internal staircase
+at the entry. There
+are 15 /plan programming rules /taken from the original text that can be
+used to
+reconstruct most villa plans. I also added eight additional rules
+simplifying and filling in
+missing gaps from the text. For example the floor plans found in the
+text confuse the
+issue of room size, some historians say that the dimensions listed on
+Palladio’s floor
+plans refer to dimensions from face of wall to face of wall.
+Unfortunately Palladio’s
+drawings vary in representation. When the dimensions are added to define
+the plan sizes
+they never amount to a consistent rule based on measurements from face
+of wall to face
+of wall, or center of wall to center of wall. The rule here defines room
+sizes from center
+of wall to center of wall, adding wall thickness later. The final floor
+plan and barn plan is
+represented by a series of line similar to Wittkower’s study. In summary
+/plan /
+/programming rules /organize the floor plan by Palladian rule from the
+site to the stairs in
+line form (fig. 5).
+The order of application begins with site rules followed by loggia
+rules, and last are
+spatial rules used for room layout and ceiling height proportions,
+starting with principle
+spaces. For example, site rules used to reconstruct the a villa say;
+“the house should be
+placed in a convenient location in the middle of the site.”
+13
+Second “the barns may not be
+an impediment to any other part of the main house”, thus they are placed
+at the perimeter
+of the site. Third, the steward and bailiff should be placed near the
+outer gate for safety,
+creating dovecotes and a large fence at the villas entrance completing
+the barn assembly
+(fig 5).
+14
+Rules for the main house also follow the /plan programming /process by
+placing
+the loggia at the front of the villa. The first space entered is a
+magnificent barrel vaulted
+hall, and the stairs are out of view, while the nicest rooms are at the
+front of the villa, the
+smaller lesser rooms are towards the back. The final plan (fig.5) is a
+line representation
+based on dimensions from the original drawing, prepared for construction
+details and
+information.
+------------------------------------------------------------------------
+*Page 17*
+*Reconstructing Palladio’s Villas:*
+/*17 */
+*4.2 *
+*Input - Construction Rules *
+The second set of rules are /construction rules /applied to the line
+drawing to create a
+functional floor plan followed by an elevation drawing from which three
+dimensional
+villa model can be constructed. The construction rules are applied the
+floor plan line
+drawings to define wall thickness, stair sizes, and true window and door
+locations (fig 6).
+Construction rules are also used to create the elevation, accurately.
+Rules are given by
+Palladio to define the outer shell of the elevation drawing (fig. 7 -
+1-boundaries).
+Construction rules are used to define the cornice, column types and roof
+slope. The final
+representation in the plan and elevation is a representation of the
+drawing from the /Four /
+/Books/, each reconstruction in nine steps. Most important is that the
+digital representation
+demonstrates conflicts in the relationship of the plan to the elevation.
+For example the
+bumped out areas of the plan are not represented in the elevation.
+Columns may be too
+thick to allow a person to pass through the portico comfortably in
+elevation, when they fit
+perfectly in the plan. These two dimensional conflicts are resolved
+within the three
+dimensional reconstruction.
+*4.3 *
+*Input - Ornamental Rules *
+The final rule type in the villa manual are ornamental rules applied to
+complex areas or
+surfaces in order to cover imperfections in construction, or to set a
+particular design
+feature apart from another (window moldings, column capitols, etc.).
+There are some
+rules written for the construction of an ornament in the /Four Books
+/such as doorframes,
+window moldings and column moldings, but there are few rules that state
+the conditions
+under which they should be applied.
+*5.0 *
+*Output - Representation *
+The case studies are a presentation using four methods of representation
+and evaluation,
+each method addressing both qualitative and quantitative issues.
+15
+These representational
+methods address Schon's points on action-in-reflection in that this
+process is one of
+learning by doing.
+16
+Here the four methods include rule graphs, also known as
+spreadsheets, used record object variables and rule equations, 3D
+printing of the model
+file followed (fig. 11) by 2D documentation and finally rendering used
+to visualize areas
+of spatial conflict. The concept of representation is that the more
+opportunities offered to
+visualize the design, the better the design results. Filmmakers and
+artists follow a similar
+process by changing the viewer's position in relation to the artificial
+world with devices
+from stereoscopic glasses to virtual reality. Their mission is to
+visually engage the viewer
+in the subject matter by changing the viewer’s point in relationship to
+the object being
+viewed.
+17
+In this study, rendering and model making tools as output materials from a
+------------------------------------------------------------------------
+*Page 18*
+*Reconstructing Palladio’s Villas:*
+/*18 */
+CAD file are used to create different architectural perspectives from a
+variety output
+materials.
+*5.1 *
+*Output - One-Dimensional Representation *
+One-dimensional output refers to the graph presentation (spreadsheet) of
+text rules used
+to build each villa model (found in the appendixes of the previous two
+chapters). They
+are accompanied by graphic descriptions, but are not meant to serve as a
+substitute for the
+geometric material.
+18
+Each graph contains the rule, the element upon which the rule is
+applied and a reference number for pointing to the rules definition. The
+rules in the graph
+serve as text functions used to determined shapes from room size to
+column depth or
+mathematical formulas used to determine window heights, room heights or
+Principal door
+sizes. This method of presenting textural rules along with the graphic
+representation is
+similar to a method used to describe shape grammars where the element is
+described
+along side its function.
+19
+Text representation in this study will be used as a quantitative
+means for evaluating the villa models.
+*Fig. *10 Cad representation of the completed Villa Cornaro vila model
+------------------------------------------------------------------------
+*Page 19*
+*Reconstructing Palladio’s Villas:*
+/*19 */
+*5.2 *
+*Output- Two-Dimensional Representation *
+Two-dimensional output refers to conventional drawing - plans, sections
+and elevations,
+used as comparative tools for evaluating the villa model against other
+drawings, such
+those of Bertotti Scamozzi. Plans are cut four feet above the finished
+floor. Sections are
+taken at the mid-point of both axes and elevations are taken at the
+extent of the property
+lines. A bar scale and a north arrow accompany each drawing when
+necessary. These
+drawings are a quantitative means of representing the villa model.
+*5.3 *
+*Three-Dimensional Representation*
+Three-dimensional output refers to physical model output from machines
+in the form of
+plastic or cornstarch. Three-dimensional printing or Fuse Deposition
+Modeling (FDM)
+stands as the moment of truth in CAD modeling and detail. Mistakes
+created by
+miscalculations in the creation of the CAD file, reveal themselves once
+printed in three
+dimensions. The output process is similar to conventional printing with
+the exception of
+the material and the output platform. The villa model or CAD file is cut
+into many plan-
+sections at intervals of 1/100 of an inch per section. Each plan-section
+represents one
+print file. Each plan-section file is sent to the printer one layer at a
+time and printed upon
+the previous layer. The final output is in the form of a plastic or
+cornstarch three-
+dimensional object. The final model has a maximum size of 10" x 10" x
+10" per part.
+Large models are printed in pieces and glued together. Because the villa
+can be printed at
+any scale it stands as both a qualitative and quantitative means of
+representation (fig.11).
+*5.4 *
+*Renderings *
+Renderings are used to simulate various design conditions such as
+lighting, surface
+textures and form while placing the viewer inside of the space.
+Rendering output here is
+focused on design issues and not on representing the full building. In
+most cases, the
+issue is about the lighting conditions of a space or the formal
+qualities of an outdoor
+space, such as a loggia. Each study uses geometric models of a
+particular space, the only
+areas modeled are those in relation with the issue. Renderings are used
+here to
+qualitatively evaluate interior spaces and some exterior forms.
+The rendering process uses radiosity models, whose surfaces are texture
+mapped and
+raytraced. In order to save on computer processing time, the full CAD
+file is copied, and
+areas not within the view of the rendering camera are erased from the
+file. The goal is to
+create a stage set of geometric surfaces from the villa model, upon
+which textures can be
+applied. The process starts with a solid geometry file, which is
+translated to a facial
+------------------------------------------------------------------------
+*Page 20*
+*Reconstructing Palladio’s Villas:*
+/*20 */
+representation. All solid information is removed model to be rendered.
+In other words the
+only geometry translated from the CAD representation to the radiosity
+program contains
+the geometry of the space and adjacent spaces within the frame of the
+camera.
+Texture maps (taken from photos of existing villas) are used to create
+surfaces similar to
+those in the built conditions. These maps allow the viewer to evaluate
+rendered images on
+that architect's terms. This means the walls appear to be the walls that
+were built by that
+architect. High-resolution texture maps are applied to each geometric
+surface within the
+frame of the camera. When rendering ideal day lighting conditions are
+needed to define
+surface texture, color and smoothness. The goal is to infuse the model
+or space with just
+enough light so as not to over or under illuminate a surface, which
+creates dark patches in
+detailed areas. The lighting goal is to offer just enough to create a
+contrast in surfaces.
+The final step is to raytrace the radiosity model and texture mapped
+surfaces, resulting in
+a high-resolution image
+*Fig. *11 3Dprinting techniques used to view models in physical form.
+Smallest
+model is a sketch representation with very little detail, largest model
+is a detailed
+representation
+------------------------------------------------------------------------
+*Page 21*
+*Reconstructing Palladio’s Villas:*
+/*21 */
+*6.0 *
+*Case study a: reconstructing The Villa Trissino, Meledo*
+This chapter is a presentation of four attempts to reconstruct the
+un-built villa Trissino in
+Meledo (fig. 12) reflecting how the villa would have been built using
+the rules in the villa
+manual. The three previous reconstruction attempts were evaluated in
+rendering or 3D
+print form only. Each result from the studies differed slightly based on
+different
+interpretations of the rules by different people. The first attempt, was
+part of the simple
+representations constructed for a CD-Rom project (fig 3). The villa
+model had no
+interiors or detail such as column or cornice moldings. The second
+reconstruction was
+undertaken in a workshop the following year. Students reconstructed
+parts of the villa,
+later combining those parts to create a full villa model. The final
+results were composed
+of interior and exterior renderings and a three-dimensional printed
+model. There were no
+attempts to record decisions or a documentation of the final model. The
+third version,
+completed by Isaac Persley an undergraduate architectural student, was a
+research project
+focused on building by the rules and recording the steps in graphic and
+textural form. The
+rules used in this study were recorded on a spreadsheet along with a
+drawing file defining
+the application of the rule visually in the form of step-by-step
+pictorial documentation. It
+was also printed three-dimensionally. The fourth and final version was
+created using
+methods defined in this paper. There are one, two and three-dimensional
+records of all
+decisions used to reconstruct the villa model as well as a
+three-dimensional print and
+renderings of the central space.
+*Fig. *12 Palladio's plan of the villa Trissino in Meledo
+------------------------------------------------------------------------
+*Page 22*
+*Reconstructing Palladio’s Villas:*
+/*22 */
+The existing site for the Villa Trissino contains two dovecotes and
+parts of the lower
+barns and a stone fence. It has been debated whether the designs of the
+barns are
+Palladio's, or that of a lesser architect.
+20
+History has it that the villa was never constructed
+and that Palladio never designed the existing dovecotes. As described by
+Palladio, the
+main house sits atop a beautiful hill over looking farms and small
+waterways.
+21
+The villa
+itself is similar in design as that of the Rotunda, a suburban villa
+with a circular hall and
+adjacent hall spaces. The Villa Trissino in Meledo combines a sense of
+dramatic theater
+like that of the Villa Rotunda, with the workings of a true farm like
+that of the Villa
+Pojana Maggore
+22
+Staying true to his rules, Palladio places the villa atop the highest
+point on the site from which barns cascade down and around to it’s outer
+ends.
+To start, the reconstruction an initial grid (a & b) for the main house
+was placed atop the
+hill along with a barn grid at a lower point. These grids are used to
+define the spacing of
+the walls and columns. The measurements for the villa plan where taken
+from Palladio's
+drawing (fig. 13), while the barn grid was an interpretation of the
+dimensions (fig. 14)
+from the drawing-there are no measured drawings of any kind for this
+building. The barns
+are divided into two sections, one circular and the other half square.
+There are two
+methods that could be used to find the center point of the circular
+barns. The first method
+is to add the distance between the columns and the diameter of the
+column defining the
+barn circumference.
+*Fig. *13 Site plan of the Villa
+Trissino with grid-a and grid-b
+*Fig. *14 Grids-a and grid-b
+------------------------------------------------------------------------
+*Page 23*
+*Reconstructing Palladio’s Villas:*
+/*23 */
+The second is to measure the distance from the edge of the steps leading
+to the lower
+terrace to the first column in the circular barn. The length of the barn
+is found by adding
+the columns and their diameters. I had to refer to Bertotti Scamozzi's
+drawing for the
+number of columns and the spacing between the columns to define the
+length of the
+barns. The villa barns also sit alongside of a thin waterway, specified
+in Palladio's
+description of the villa.
+23
+*6.1 *
+*The Reconstruction *
+One
+fundamental problem with the Palladio's drawing is that one of the side
+rooms is
+missing a dimension note needed to define the width of the room space
+and the adjacent
+run of the stairs. Palladio provides the length (30ft.) but not the
+width. This dimension
+defines the overall size of the space, and it helps to define the shape
+and ordering of the
+stair. It is possible that the width of the space could be a ratio such
+as 2:1 (15'), or 3:5 that
+would make the missing dimension 18'. Both numbers are too small to
+create the adjacent
+flight of stairs that would clear the doors below. The proposal here
+calls for the space to
+be 22' wide, which should clear the door if there is a winding stair
+(fig. 15).
+*Fig. *15 Two solutions for the missing dimension. Scheme (A) offers a
+good ratio
+for the space 2:1 but there is not enough space in the stair to clear
+the 6'6" door.
+Scheme (B) offers space for door clearance but the number does not fit with
+Palladio's proportioning system. Any number greater than 22'
+dramatically breaks
+Palladio's rule for the maximum length of a stairs run (Palladio, A., p.
+34).
+------------------------------------------------------------------------
+*Page 24*
+*Reconstructing Palladio’s Villas:*
+/*24 */
+*6.1.1 Plan Reconstruction *
+The plan was reconstructed from the dimensions listed on Palladio's
+drawing and the
+conjecture defined above (fig. 15). Once the basic layout for the wall
+grid along with
+dimensions was established (fig.14), and the process of adding
+reconstruction begins (fig.
+16). The only area of conflict within the plan reconstruction was in the
+connection
+between the house and the circular barn. It is unclear how the two were
+connected in the
+Palladio’s drawings. In this solution, the attempt was made to join the
+barns to the outer
+wall of the main house.
+*6.1.2 Elevation Reconstruction*
+The elevation did present some problems in height definition, which
+varies a lot between
+the two barns and the main house. In addition to the variation in
+heights of the barns, the
+dome became as much of a construction issue as was a design issue. The
+dome is drawn
+in the /Quattro Libri /with a straight line at its base, where the roof
+of the villa meets the
+dome, similar to the drawing of the Rotunda. There are no rules for the
+height of the
+dome, nor rules for its construction. Here again, another conjecture is
+made to define the
+height of the dome. In this case the guess is set at 72' to the top of
+the dome, the same
+dimension as the inside radius of the barns (fig. 17).
+*6.1.3 Model Construction*
+Model construction is broken into 12 parts as mentioned earlier. Here
+the main conflict
+expected to be resolved in the modeling process is the construction of
+the large dome
+over the central space. Additional areas are the stair construction,
+basements, junction
+between barns and the house and the roof of the main house.
+*6.1.3.1 Initial Plans *
+Although the first level of the plan shows the barns and the basement as
+one piece, the
+site separates the villa and its into three separate pieces: the
+basement, the upper barn and
+the lower barn. The walls at the basement of the villa follow the rules
+system for walls,
+which states that they are to be twice the thickness of the walls at the
+*piano noble*.
+However, the upper story walls do not follow Palladio's rules tha call
+for them to be half
+a brick thinner than the *piano noble*. Since the outer wall is flush
+and without moldings at
+the second level, I constructed them at the same thickness as the *piano
+noble* (fig. 18).
+------------------------------------------------------------------------
+*Page 25*
+*Reconstructing Palladio’s Villas:*
+/*25 */
+*Fig. *16 Plan reconstruction derivation
+------------------------------------------------------------------------
+*Page 26*
+*Reconstructing Palladio’s Villas:*
+/*26 */
+*Fig. *17 Elevation reconstruction derivation
+------------------------------------------------------------------------
+*Page 27*
+*Reconstructing Palladio’s Villas:*
+/*27 */
+*6.1.3.2 Walls *
+The floor-to-floor height is missing from the original Palladian drawing
+for the piano
+noble and the barns. However he does give dimensions for the height of
+the walls from
+the *piano noble* to the bottom of the roof cornice. Here 17' was given
+to the first floor,
+one to the floor thickness and 8'-0" was given to the upper story. In
+this case the
+conjecture for the basement wall height was taken from previous studies
+defining the
+basement at 11'-0" in height. The barns were given heights of 15' for
+the lower barn and
+15' for the upper.
+*Fig. *19 Wall derivation
+*Fig. *18 Plan Reconstruction using wall notations from the plan
+reconstruction
+------------------------------------------------------------------------
+*Page 28*
+*Reconstructing Palladio’s Villas:*
+/*28 */
+*6.1.3.3 Ceilings, vaults and floors *
+The only ornate ceiling in the villa is perhaps a barrel vault at the
+entry hall. It turns out
+that there are two rooms with the possibility of supporting a vaulted
+ceiling the entry
+room and the small outer room, adjacent the connection to the barns. The
+middle space is
+a double height space similar to a large palace space with a flat
+ceiling. Basement vaults
+are semi elliptical vaults (fig. 20).
+*6.1.3.4 Cornice *
+The cornice is the most complicated part of the assembly. Each cornice
+type (c1, c2, etc.)
+is composed of three design conditions - an extrusion of the profile, a
+cap condition at the
+corners where two cornices meet and a reverse cap condition where two
+cornices meet in
+a corner. Composed of two parts, the Corinthian order is customized in
+four different
+ways. The first of the Corinthian orders is used for the balcony
+projection under the
+portico (c2); the second is used at the rotunda (c3), the third is the
+most ornate (c4), in
+this case placed under the pediment; the last is a flattened version
+with the least
+ornamentation, and it is used under the roof (c5). The most complicated
+connection or
+joint is at the portico. Here Palladio extends the ornate entablature
+(c4) over the columns
+away from the flattened cornice (c5) that surrounds the walls.
+*Fig. *20 Ceiling derivation
+------------------------------------------------------------------------
+*Page 29*
+*Reconstructing Palladio’s Villas:*
+/*29 */
+*6.1.3.5 Portico and steps *
+There are three different portico stairs, each with its own function and
+layout. Types (s1)
+and (s2) are formal types leading to the porticos of the villa. Types
+(s3) and (s5) are
+service stairs leading to the upper and or lower barns. Type (s5) is a
+formal stair dividing
+the two gardens. The greatest conflict is in (s5) which is modeled
+differently than
+Palladio's original drawing. Palladio's drawings showed a set of stairs
+heading into the
+lower barns. This gave little room for a landing. The solution here
+calls for a switch back
+stair leading to the lower barn. The negative part of this is that it is
+uncovered.
+*Fig. *21 Cornice types, refer to fig. for profiles
+*Fig. *21 Porticos and exterior stairs
+------------------------------------------------------------------------
+*Page 30*
+*Reconstructing Palladio’s Villas:*
+/*30 */
+*6.1.3.6 Staircases *
+There are three types of stairs, each made of the standard brick
+supporting system, but
+there is question as to how the formal stair might have been
+constructed. Palladio shows
+the stair as a wrapping rectangular stair without an inner wall. It is
+not clear how it would
+support itself with out a wall so one was added in this study. The
+problem is that there is
+little room for the door and passageway shown in Palladio’s woodcut.
+*6.1.3.7 Columns and arches *
+It is unclear as to what orders Palladio might have used for the barns,
+and the main villa.
+Palladio specifies that the loggias are to be of the Corinthian order
+and that the barns are
+Tuscan. Bertotti Scamozzi challenges this by saying that the upper barns
+were designed
+by Palladio to be of the Ionic order and that the lower barns were meant
+to be of the
+Tuscan. It is most likely that the real challenge of the orders is in
+the dome. Palladio does
+not assign an order to the half columns in the dome. In the Four Books
+he says "/There are /
+/some half columns in the hall, that support a gallery, into which one
+goes from the rooms/
+/above; which by reason they are but seven feet high, serve for mezzati/.
+24
+" Bertotti
+Scamozzi lists the order under the dome to be Corinthian. I have also
+listed the order to
+be Corinthian in the documentation, but this will be challenged in the
+visualization.
+*Fig. *22 Interior stairs
+------------------------------------------------------------------------
+*Page 31*
+*Reconstructing Palladio’s Villas:*
+/*31 */
+*6.1.3.8 Moldings *
+There are two molding types (double and single) surrounding the lower
+levels of the villa
+and barn.
+*Fig. *23 Columns and arches
+*Fig. *24 Molding Reconstruction
+------------------------------------------------------------------------
+*Page 32*
+*Reconstructing Palladio’s Villas:*
+/*32 */
+*8.1.2.9 Doors *
+Room doors worked fine when installed by Palladio's rules. The formula
+for the principle
+doors did not work at the second story. The height of the opening and
+archway at the
+colonnade had to be altered to compensate for the large entablature.
+*8.1.2.10 *
+*Windows*
+The generic window size formulated for the villa was also used in the
+upper and lower
+barns.
+*Fig. *25 Doors
+*Fig. *25 Windows
+------------------------------------------------------------------------
+*Page 33*
+*Reconstructing Palladio’s Villas:*
+/*33 */
+*6.1.3.11 *
+*Details *
+Here, two principal door types are used, the scroll being the most
+formal of the two.
+Balustrades and newel post are used at the balcony level.
+*6.1.3.12 *
+*Roof and pediment *
+The pediment is of the Corinthian type angled at 23.2 degrees, supported
+by minor and
+major types.
+*Fig. *26 Details
+*Fig. *27 Cornice, roof truss and roof
+------------------------------------------------------------------------
+*Page 34*
+*Reconstructing Palladio’s Villas:*
+/*34 */
+*6.4 *
+*Results and Conflicts *
+As with any reconstruction or design problem, there are major and minor
+conflicts and
+contradictions that are cause for design invention, in this study there
+were two. First,
+there are no rules for defining the height of the dome. Although the
+villa Rotunda is
+rendered with a similar dome, the two cannot be compared in construction
+or design. The
+Rotunda's dome is drawn almost as if it were metal with little wall
+space between the
+base of the dome and the top of the villa roof. The Trissino dome has
+walls extended far
+above the roofline for the main house and the dome has a radius lower
+than that of the
+Rotunda. Palladio’s drawing shows the Villa Trissino dome with moldings
+and details
+around the upper portion of the dome, which could mean that the dome was
+composed of
+brick not metal. The second conflict is over the half columns in the
+central space.
+Palladio does not specify an order. Scamozzi speculates that the columns
+are of the
+Corinthian order while Burns defines the order to be Ionic. The two
+possible orders are
+tested in this next section.
+*Fig. *28 Three-dimensional print from the cad-model
+------------------------------------------------------------------------
+*Page 35*
+*Reconstructing Palladio’s Villas:*
+/*35 */
+*6.5 *
+*Interior Studies *
+The question here is what was the order of the half columns? The
+possibilities include the
+Ionic and the Corinthian orders as mentioned by Scamozzi and Burns.
+There are two
+references that can be taken from other dome spaces similar in
+composition to this villa.
+The first is the Tempietto Barbaro at Maser, which happens to also have
+a portico of the
+Corinthian order and a domed space articulated with half columns also in
+the Corinthian
+order. These half columns support a balcony of thin balustrades, above
+with no
+supporting newel post. The second space is similar to the design of the
+Villa Rotunda,
+which is of the Ionic order on the outside and frescos with columns of
+no particular order
+on the inside. The inner wall below supports the balcony, lined with
+balustrades and
+newel posts but not columns. Here the two are tested qualitatively.
+*Fig. *29 Proposals for the Corinthian and Ionic orders at the dome
+------------------------------------------------------------------------
+*Page 36*
+*Reconstructing Palladio’s Villas:*
+/*36 */
+*Fig. *31 Rendering of the central hall with half columns in the
+Corinthian Order
+------------------------------------------------------------------------
+*Page 37*
+*Reconstructing Palladio’s Villas:*
+/*37 */
+*6.6 *
+*Summary of Findings from the Villa Trissino*
+The Villa Trissino is a palatial villa of a massive order, set atop a
+hill, along side a
+beautiful creek, assembled by rule with few conflicts. Here the
+conflicts were resolved by
+referring to churches or villas of similar design and construction or
+resolved through a
+closer examination of the physical construction (fig. 15). In spite of
+the amount of the
+number of issues inspired by each study, each attempt to reconstruct a
+villa reveals
+unexplored information leading to new questions and new rules. The Villa
+Trissino
+presented a process and a product more than a particular design finding.
+The lesson
+learned from this study was that rule conflicts lead to the invention of
+new rules (design)
+or the rewriting of the existing. Based on information from the past set
+of reconstructed
+villas (fig. 3) there are fore seen studies that will render many design
+conflicts.
+*7.0*
+*Towards a new Palladian Grammar – Reconstructing the Villas*
+As with most computational projects, two areas of learning are at play
+between the
+computation and the architect. Here, two lessons were learned about
+Palladio’s design
+process and construction process. First is that Palladio's plan sketches
+are spatial
+representations from which construction rules can be applied. In other
+words, design rules
+are represented in the form of lines drawings, while construction rules
+are noted by text
+and graphics. Second, there are many conflicts and contradictions in the
+drawings,
+particularly in detailed areas. The drawings were never meant for
+construction, they are
+meant to serve as simple representations of the villas. The first thing
+that must happen is
+to convert the plan and elevation to a digital accurate representation
+before any three
+dimensional rules can be performed. Third lesson is that the rules
+actually work in
+general terms. Wittkower and Stiny/Mitchell were right. Most rules were
+very general
+mostly allowing operations on general areas of villa design and
+construction. Additional
+rules such as wall thickness, ceiling thickness rules, or roof rafter
+rules were used to fill
+rule gaps.
+There were also lessons learned about the reconstruction process as
+well. First, is the
+issue of evaluation and that resulting materials should be presented and
+evaluated under
+qualitative and quantitative terms, meaning that the material must be
+measurable in scale
+and quantity. Architects design spatial material which is best viewed in
+three-dimensions
+either through rendering or after construction in the form of a
+simulated model. Last,
+there is always more than one solution to any design problem. Single
+solutions can limit
+the level of understanding for a particular issue. Multiple variations
+of one theme help the
+evaluation process by expanding the questions through multiple
+representations of the

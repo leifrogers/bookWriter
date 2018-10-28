@@ -8,16 +8,16 @@ namespace book;
 class Title
 {
     /**
-     * Undocumented variable
+     * Array of future adjectives
      *
-     * @var [type]
+     * @var array
      */
     protected $adjectives;
 
     /**
-     * Undocumented variable
+     * Array of future nouns
      *
-     * @var [type]
+     * @var array
      */
     protected $nouns;
 
@@ -29,7 +29,7 @@ class Title
     protected $starters = ['The', 'The Case of The', 'The Return of The'];
 
     /**
-     * Undocumented function
+     * Sets up adjective and noun arrays
      */
     public function __construct()
     {
@@ -38,16 +38,17 @@ class Title
     }
 
     /**
-     * Undocumented function
+     *  Gets Title
      *
-     * @return void
+     * @return string $title
      */
     public function getTitle()
     {
         $adjective = $this->getRandomWord($this->adjectives);
         $noun = $this->getRandomWord($this->nouns, $adjective[0]);
         $starter = $this->starters[array_rand($this->starters)];
-        return ucwords("{$starter} {$adjective} {$noun}");
+        $title = ucwords("{$starter} {$adjective} {$noun}");
+        return $title;
     }
 
     /**

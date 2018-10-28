@@ -25,9 +25,7 @@ class BookWriter
      */
     function writeBook($outputType)
     {
-        //$booklist = file_get_contents('books-crime.txt');
         $booklist = file(__DIR__ . '/books-crime.txt', FILE_IGNORE_NEW_LINES);
-        //$books = explode("\n", $booklist);
         $books = $booklist;
         $sections = rand(6, 16);
         $paras = rand(7, 28);
@@ -81,7 +79,7 @@ class BookWriter
                 }
             }
             $lineCounter = 0;
-            $graph = rand(2, 10);
+            $graph = rand(1, 10);
             foreach ($objects as $arr) {
                 $line = $this->contains(strval($longword), explode(' ', $arr));
                 if ($line == true) {
@@ -97,7 +95,7 @@ class BookWriter
                             $contents .= "\n\r\n\r";
                         }
                         $lineCounter = 0;
-                        $graph = rand(2, 10);
+                        $graph = rand(1, 10);
                     }
                     $lineCounter++;
                 }
